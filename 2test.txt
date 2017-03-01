@@ -2,4 +2,8 @@ sfafssdfvb
 
 asda
  asdas
+<<<<<<< HEAD
  owo
+=======
+ hola owo
+>>>>>>> prueba
